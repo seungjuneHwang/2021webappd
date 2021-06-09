@@ -18,7 +18,7 @@ def input_money():
 
 # 돈 뻥티기 함수
 def money_pung(m):
-    return m * 3
+    return m * 5
 
 def idpw_check(email, pswd):
     # 만약에 이메일이 'a@a.com'이고 패스워드가 '123' 이면
